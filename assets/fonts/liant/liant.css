@@ -1,0 +1,27 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3804525, 2019-09-05T14:58:01-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: FF Liant Std Regular by FontFont
+ * URL: https://www.myfonts.com/fonts/fontfont/ff-liant/regular/
+ * Copyright: 2010 Ingrid Liche published by FSI FontShop International GmbH
+ * Licensed pageviews: 50,000
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3804525
+ * 
+ * © 2019 MyFonts Inc
+*/
+
+
+@import url("//hello.myfonts.net/count/3a0d6d");
+
+  
+@font-face {font-family: 'FFLiantStdRegular';src: url('3A0D6D_0_0.eot');src: url('3A0D6D_0_0.eot?#iefix') format('embedded-opentype'),url('3A0D6D_0_0.woff2') format('woff2'),url('3A0D6D_0_0.woff') format('woff'),url('3A0D6D_0_0.ttf') format('truetype');}
+ 
