@@ -1,2 +1,2 @@
 # koolkooking
-KoolKooking Website
+coming soon
